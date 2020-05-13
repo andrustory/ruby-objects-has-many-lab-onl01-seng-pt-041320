@@ -7,4 +7,5 @@ def initialize(post_title)
   @@all << self
 end
 
+def self.all
 end
