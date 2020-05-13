@@ -5,7 +5,7 @@ class Post
 @@all=[]
 
 def initialize(post_title)
-  @tittle=post_title
+  @title=post_title
   @@all << self
 end
 
